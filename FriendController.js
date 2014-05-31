@@ -21,33 +21,3 @@ app.controller('allFriends', function($scope, friendData){
 
 }); 
 
-
-
-
-// for (var i in Object) { 
-//     console.log(Object[i]); 
-//     console.log(i); 
-//     if (i === friend_count && Object[i] !=== null){
-//         Object[i]=parseInt(Object[i] );
-//     }
-
-// };
-
-
-
-
-// {
-// friend_count: "1200",
-// name: "Naishi Zhang",
-// }
-
- // for (var i in Object) { 
- //                    console.log(Object[i]); 
- //                    console.log(i); 
- //                    if (i === "friend_count" && Object[i] !== null){
- //                         console.log(Object[i]);
- //                    }
-
- //                }
-
-                //1200 and undefined
